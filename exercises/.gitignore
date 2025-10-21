@@ -2,3 +2,4 @@
 **/*.txt
 **/*.pkl
 **/.DS_Store
+**/*.pt
